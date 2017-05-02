@@ -24,4 +24,5 @@ for i in range (t,0,-2):
         cout0 = cout0 + 1
         
       else: 
-cout1 = cout1 +1
+        cout1 = cout1 +1
+print tm
